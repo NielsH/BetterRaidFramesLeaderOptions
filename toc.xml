@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="KamiNuvini" APIVersion="9" Name="BetterRaidFramesLeaderOptions" Description="Better display of raidleader options." Version="0.6">
+    <Form Name="BetterRaidFramesLeaderOptions.xml"/>
+    <Script Name="BetterRaidFramesLeaderOptions.lua"/>
+    <ReplaceAddon Name="RaidFrameLeaderOptions"/>
+</Addon>
